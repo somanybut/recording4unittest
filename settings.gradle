@@ -1,0 +1,4 @@
+rootProject.name = 'plugin4pinpoint'
+include 'recording-mysql'
+include 'mock-mysql'
+
