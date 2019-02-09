@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.threshold.toolset.recording.mysql.interceptor.getter;
+package com.faisonsle.toolset.recording.mysql.interceptor.getter;
 
 /**
  * @author HyunGil Jeong
  */
-public interface OrigPortToConnectToGetter {
-    int _$PINPOINT$_getOrigPortToConnectTo();
+public interface DatabaseGetter {
+    String _$PINPOINT$_getDatabase();
 }

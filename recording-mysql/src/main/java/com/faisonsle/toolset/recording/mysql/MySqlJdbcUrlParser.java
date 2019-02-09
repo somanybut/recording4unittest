@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.threshold.toolset.recording.mysql;
+package com.faisonsle.toolset.recording.mysql;
 
 import com.navercorp.pinpoint.bootstrap.context.DatabaseInfo;
 import com.navercorp.pinpoint.bootstrap.logging.PLogger;

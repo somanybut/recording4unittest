@@ -1,4 +1,4 @@
-package com.threshold.toolset.just4test.mock.db;
+package com.faisonsle.toolset.just4test.mock.db;
 
 import com.navercorp.pinpoint.bootstrap.config.ProfilerConfig;
 

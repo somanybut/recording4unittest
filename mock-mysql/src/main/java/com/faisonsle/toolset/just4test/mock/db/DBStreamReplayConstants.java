@@ -1,4 +1,4 @@
-package com.threshold.toolset.just4test.mock.db;
+package com.faisonsle.toolset.just4test.mock.db;
 
 import com.navercorp.pinpoint.common.trace.ServiceType;
 import com.navercorp.pinpoint.common.trace.ServiceTypeFactory;

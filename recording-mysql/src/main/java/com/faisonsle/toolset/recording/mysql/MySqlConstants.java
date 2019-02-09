@@ -12,7 +12,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.threshold.toolset.recording.mysql;
+package com.faisonsle.toolset.recording.mysql;
 
 import static com.navercorp.pinpoint.common.trace.ServiceTypeProperty.*;
 

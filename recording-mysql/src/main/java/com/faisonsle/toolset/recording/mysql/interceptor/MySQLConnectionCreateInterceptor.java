@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.threshold.toolset.recording.mysql.interceptor;
+package com.faisonsle.toolset.recording.mysql.interceptor;
 
 import java.util.Arrays;
 
@@ -28,7 +28,7 @@ import com.navercorp.pinpoint.bootstrap.logging.PLoggerFactory;
 import com.navercorp.pinpoint.bootstrap.plugin.jdbc.DatabaseInfoAccessor;
 import com.navercorp.pinpoint.bootstrap.plugin.jdbc.DefaultDatabaseInfo;
 import com.navercorp.pinpoint.bootstrap.util.InterceptorUtils;
-import com.threshold.toolset.recording.mysql.MySqlConstants;
+import com.faisonsle.toolset.recording.mysql.MySqlConstants;
 
 /**
  * @author emeroad
